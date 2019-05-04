@@ -81,7 +81,7 @@
 
             <div class="content">
                 <div class="title m-b-md">
-                    Zar-Kom
+                    Tu będą urlopy
                 </div>
 
                 <div class="links">
